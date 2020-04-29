@@ -53,4 +53,4 @@ The more you can tell us, the more understanding we have about your skill set.
 
 We are looking forward to having you onboard!
 
-![](https://github.com/jina-ai/jina/blob/master/docs/chapters/101/img/ILLUS11.png?raw=true)
+<center><a href="https://opensource.jina.ai"><img src="https://github.com/jina-ai/jina/blob/master/docs/chapters/101/img/ILLUS11.png?raw=true" width="60%"></a></center>

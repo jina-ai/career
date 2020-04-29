@@ -1,5 +1,7 @@
 ![Career@Jina AI](career-banner.png)
 
+Jina AI is a Neural Search Company.
+
 We are looking for top [AI engineers](https://github.com/jina-ai/career/blob/master/ai-engineer.md), [full-stack engineers](https://github.com/jina-ai/career/blob/master/full-stack-engineer.md), frontend developers, [open-source evangelists](https://github.com/jina-ai/career/blob/master/opensource-evangelist.md), [product managers](https://github.com/jina-ai/career/blob/master/ai-product-manager.md) and operating managers to join our team. There are specific requirements for each position. Please check the documents for details. 
 
 In general, we’d like you to:

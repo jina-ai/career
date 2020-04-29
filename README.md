@@ -11,21 +11,19 @@ In general, we’d like you to:
 
 We offer a very competitive package and multiple perks for top talents. Come and join us today!
 
-# Our Company Culture
+## Our Company Culture
 
 If we don’t like something, we change it and make it better.
-
-# What we Do Differently at Jina
 
 - We do not waste time on things we do not believe.
 - We don’t lock up our value and innovation in "the way people have always done it." We are receptive to change.
 - We don’t compromise our standard.
 
-# General Advice for the Interview
+## General Advice for the Interview
 
 We are fully committed to open-source. That means you can view all our code, commits, issues, PRs publicly. Hence, when we conduct the interview, we do expect you to have a certain understanding about our products, tech stack and vision. 
 
-# Engineering Role: a Good Pull Request is a Good Cover Letter
+## Engineering Role: a Good Pull Request is a Good Cover Letter
 
 Every tech interview involves some kind of code screening. We do it differently at Jina. Since we are completely open-source, it is a good way to evaluate your engineering skills based on your first Pull Request to Jina.
 
@@ -33,7 +31,7 @@ If you apply for one of our engineering roles, you can pick one project ([jina](
 
 Note that not only the code, but also the coding style, documentations, [commit style](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md), affect our evaluation.
 
-## A Good Starting Point
+### A Good Starting Point
 
 So where should you start to work on? Here are some good examples:
 - Port an executor to Jina Hub;
@@ -41,13 +39,13 @@ So where should you start to work on? Here are some good examples:
 - Solve a bug/feature request listed in the issues;
 - Improve the documentations.
 
-## Don’t Over-Engineering
+### Don’t Over-Engineering
 
 If you choose a very challenging task as the first pull request, it may take you too long and too much energy to finish. However, if you choose a very easy one, e.g. fixing a plural typo, then we can not fully evaluate your engineering skills.
 
 It is your decision to choose a task at the proper size, proper enough to show your ability without overdoing it. Locking the problem, estimating the difficulty and getting it done. This is the skillset we expect you to have.
 
-# Product, Operating and Evangelist Role: Tell us about your Understanding
+## Product, Operating and Evangelist Role: Tell us about your Understanding
 
 We would like to hear from you about the feedback when using our products. Like really using it, not just looking at our screenshot or documentations. What’s your view? What are the good and bad features? How can things be improved? What minimum resources do you need to get this done?
 

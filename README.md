@@ -14,6 +14,11 @@ In general, we’d like you to:
 
 We offer a very competitive package and multiple perks for top talents. Come and join us today! Send your resume to [career@jina.ai](mailto:career@jina.ai)
 
+## Office Locations
+
+- Berlin (in process)
+- Beijing, Zhongguancun InnoWay
+
 ## Company Culture
 
 ### *If we don’t like something, we change it and make it better.*

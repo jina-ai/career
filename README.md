@@ -49,11 +49,15 @@ It is your decision and wisdom to find a task at the proper size: proper enough 
 
 ## Product, Operating and Evangelist Role: Tell us about your Understanding
 
-We would like to hear from you about the feedback when using our products. Like really using it, not just looking at our screenshot or documentations. What’s your view? What are the good and bad features? How can things be improved? What minimum resources do you need to get this done?
+We would like to hear from you about the feedback when using our products. Like **really using** it, not just looking at our screenshot or documentations. Following the PyPI install instruction or using Docker, either way you need to run the system by yourself. This is the basic requirement for our product related roles.
+
+After playing with our products. We'd like to hear your feedback. What’s your view? What are the good and bad features? How can things be improved? What minimum resources (time & HR) do you need to get this done?
 
 The more you can tell us, the more understanding we have about your skill set.
 
-We are looking forward to having you onboard!
 
+## We are looking forward to having you onboard!
+
+Submit your resume to career@jina.ai
 
 <a href="https://opensource.jina.ai"><img src="https://github.com/jina-ai/jina/blob/master/docs/chapters/101/img/ILLUS11.png?raw=true" width="60%" align="center"></a>

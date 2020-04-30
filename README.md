@@ -19,6 +19,8 @@ We offer a very competitive package and multiple perks for top talents. Come and
 - Berlin (in process)
 - Beijing, Zhongguancun InnoWay
 
+We also have few remote positions.
+
 ## Company Culture
 
 ### *If we don’t like something, we change it and make it better.*

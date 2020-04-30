@@ -1,3 +1,7 @@
+---
+permalink: /README.zh.md
+---
+
 ![Career@Jina AI](career-banner.png)
 
 Jina AI是一家神经搜索公司。

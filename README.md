@@ -1,3 +1,7 @@
+---
+title: Find out Career @ Jina AI
+---
+
 ![Career@Jina AI](career-banner.png)
 <sub><a href='./README.zh'>中文</a></sub>
 

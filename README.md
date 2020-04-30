@@ -13,9 +13,9 @@ In general, we’d like you to:
 
 We offer a very competitive package and multiple perks for top talents. Come and join us today! Send your resume to career@jina.ai
 
-## Our Company Culture
+## Company Culture
 
-**If we don’t like something, we change it and make it better.**
+### *If we don’t like something, we change it and make it better.*
 
 - We do not waste time on things we do not believe.
 - We don’t lock up our value and innovation in "the way people have always done it." We are receptive to change.

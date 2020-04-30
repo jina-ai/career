@@ -45,7 +45,7 @@ So where should you start to work on? Here are some good examples:
 
 If you choose a very challenging task as the first pull request, it may take you too long and too much energy to finish. However, if you choose a very easy one, e.g. fixing a plural typo, then we can not fully evaluate your engineering skills.
 
-It is your decision to choose a task at the proper size, proper enough to show your ability without overdoing it. Locking the problem, estimating the difficulty and getting it done. This is the skillset we expect you to have.
+It is your decision and wisdom to find a task at the proper size: proper enough to show your ability without overdoing it. **Locking down the problem, estimating the difficulty and getting it done.** This is the skillset we expect you to have.
 
 ## Product, Operating and Evangelist Role: Tell us about your Understanding
 

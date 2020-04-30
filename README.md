@@ -25,7 +25,7 @@ We offer a very competitive package and multiple perks for top talents. Come and
 
 We are fully committed to open-source. That means you can view all our code, commits, issues, PRs publicly. Hence, when we conduct the interview, we do expect you to have a certain understanding about our products, tech stack and vision. 
 
-## Engineering Role: a Good Pull Request is a Good Cover Letter
+## Engineering Role: a Good Pull Request = a Good Cover Letter
 
 Every tech interview involves some kind of code screening. We do it differently at Jina. Since we are completely open-source, it is a good way to evaluate your engineering skills based on your first Pull Request to Jina.
 

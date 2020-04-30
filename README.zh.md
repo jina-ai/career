@@ -1,8 +1,3 @@
----
-layout: post
-title: 在Jina AI工作
----
-
 ![Career@Jina AI](career-banner.png)
 
 Jina AI是一家神经搜索公司。

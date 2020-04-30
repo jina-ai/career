@@ -12,7 +12,7 @@ In general, we’d like you to:
 - Play along with the open source community;
 - Speak and write good English.
 
-We offer a very competitive package and multiple perks for top talents. Come and join us today! Send your resume to career@jina.ai
+We offer a very competitive package and multiple perks for top talents. Come and join us today! Send your resume to [career@jina.ai](mailto:career@jina.ai)
 
 ## Company Culture
 
@@ -62,6 +62,6 @@ The more you can tell us, the more understanding we have about your skill set.
 
 ## We are looking forward to having you onboard!
 
-Submit your resume to career@jina.ai
+Submit your resume to [career@jina.ai](mailto:career@jina.ai)
 
 <a href="https://opensource.jina.ai"><img src="https://github.com/jina-ai/jina/blob/master/docs/chapters/101/img/ILLUS11.png?raw=true" width="60%" align="center"></a>

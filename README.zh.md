@@ -63,4 +63,7 @@ Jina AI是一家神经搜索公司。
 
 将您的简历投递到 [career@jina.ai](mailto:career@jina.ai)
 
-<a href="https://opensource.jina.ai"><img src="https://github.com/jina-ai/jina/blob/master/docs/chapters/101/img/ILLUS11.png?raw=true" width="60%" align="center"></a>
+
+<p align="center">
+  <a href="https://opensource.jina.ai"><img src="https://github.com/jina-ai/jina/blob/master/docs/chapters/101/img/ILLUS11.png?raw=true" width="60%" align="center"></a>
+</p>

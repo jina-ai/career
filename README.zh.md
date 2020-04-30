@@ -12,7 +12,7 @@ Jina AI是一家神经搜索公司。
 -   和开源社区一起玩耍。
 -   能说、能写好英语。
 
-我们为顶尖人才提供极具竞争力的待遇和多重福利。现在就来加入我们吧!请将您的简历发送至：career@jina.ai
+我们为顶尖人才提供极具竞争力的待遇和多重福利。现在就来加入我们吧!请将您的简历发送至：[career@jina.ai](mailto:career@jina.ai)
 
 ## 公司文化
 
@@ -61,6 +61,6 @@ Jina AI是一家神经搜索公司。
 
 ## 我们期待着您的加入!
 
-将您的简历投递到 career@jina.ai
+将您的简历投递到 [career@jina.ai](mailto:career@jina.ai)
 
 <a href="https://opensource.jina.ai"><img src="https://github.com/jina-ai/jina/blob/master/docs/chapters/101/img/ILLUS11.png?raw=true" width="60%" align="center"></a>

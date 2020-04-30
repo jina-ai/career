@@ -35,11 +35,14 @@ Note that not only the code, but also the coding style, documentations, [commit 
 
 ### A Good Starting Point
 
-So where should you start to work on? Here are some good examples:
+So what should you start to work on? Here are some good examples:
 - Port an executor to Jina Hub;
 - Add an example built on Jina to our tutorial section;
 - Solve a bug/feature request listed in the issues;
 - Improve the documentations.
+
+You are of couse not limited to this, choose your unique perspective and surprise us!
+
 
 ### Don’t Over-Engineering
 

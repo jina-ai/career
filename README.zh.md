@@ -30,7 +30,7 @@ Jina AI是一家神经搜索公司。
 
 每一次技术面试都会涉及到一些代码筛选。在Jina，我们的做法不一样。因为我们是完全开源的，所以根据你对Jina的第一次Pull Request来评估你的工程技能是一个很好的方法。
 
-如果您应聘我们的工程角色，您可以选择一个项目([吉娜](https://github.com/jina-ai/jina),[枢纽](https://github.com/jina-ai/jina-hub),[仪表板](https://github.com/jina-ai/jina-hub),[榜样](https://github.com/jina-ai/examples))，并对一个BUG或新功能进行工作。通过pull request提交你的工作并通过CICD。然后我们将对其进行审核。
+如果您应聘我们的工程角色，您可以选择一个项目([Jina](https://github.com/jina-ai/jina),[Hub](https://github.com/jina-ai/jina-hub),[Dashboard](https://github.com/jina-ai/jina-hub),[Examples](https://github.com/jina-ai/examples))，并对一个BUG或新功能进行工作。通过pull request提交你的工作并通过CICD。然后我们将对其进行审核。
 
 注意，不仅要注意编码，还要注意编码风格，文档的编码风格。[Commit Style](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md)，影响我们的评价。
 

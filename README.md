@@ -35,19 +35,21 @@ We are fully committed to open-source. That means you can view all our code, com
 
 ## Engineering Role: a Good Pull Request = a Good Cover Letter
 
+> ℹ️ A Pull Request is required for Engineering role applicants
+
 Every tech interview involves some kind of code screening. We do it differently at Jina. Since we are completely open-source, it is a good way to evaluate your engineering skills based on your first Pull Request to Jina.
 
-If you apply for one of our engineering roles, you can pick one project ([jina](https://github.com/jina-ai/jina), [hub](https://github.com/jina-ai/jina-hub), [dashboard](https://github.com/jina-ai/jina-hub), [example](https://github.com/jina-ai/examples)) and work on one bug or new feature. Submit your work via pull request and pass the CICD. Then we will review it.
+If you apply for one of our engineering roles, you can pick one project ([Jina](https://github.com/jina-ai/jina), [Jina-Hub](https://github.com/jina-ai/jina-hub), [Dashboard](https://github.com/jina-ai/jina-hub), [Examples](https://github.com/jina-ai/examples)) and work on one bug or new feature. Submit your work via pull request and pass the CICD. Then we will review it.
 
 Note that not only the code, but also the coding style, documentations, [commit style](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md), affect our evaluation.
 
 ### A Good Starting Point
 
 So what should you start to work on? Here are some good examples:
-- Port an executor to Jina Hub;
-- Add an example built on Jina to our tutorial section;
-- Solve a bug/feature request listed in the issues;
-- Improve the documentations.
+- Port an executor from [Jina](https://github.com/jina-ai/jina) to [Jina-Hub](https://github.com/jina-ai/jina-hub);
+- Add an example built on [Jina](https://github.com/jina-ai/jina) to our tutorial section;
+- Solve a bug/feature request listed in the [issues](https://github.com/jina-ai/jina/issues);
+- Improve [the documentations](https://docs.jina.ai).
 
 You are of couse not limited to this, choose your unique perspective and surprise us!
 

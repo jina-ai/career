@@ -16,7 +16,7 @@ We offer a very competitive package and multiple perks for top talents. Come and
 
 ## Office Locations
 
-- Berlin (in process)
+- Berlin, Alexanderplatz
 - Beijing, Zhongguancun InnoWay
 
 We also have few remote positions.

@@ -40,7 +40,9 @@ Jina AI是一家**神经搜索**公司。
 
 ## 🚀应聘工程师岗位：一个好的PR就是一封好的求职信
 
-coder interview是技术面试必不可少的一项。在Jina，我们在尝试一种新的做法。因为我们是完全开源的，所以我们会根据你对Jina的第一次Pull Request来评估你的工程技能。
+> ℹ️每一位工程师岗位的应聘者都请首先完成你的第一个Pull Request。
+
+Code interview是技术面试必不可少的一项。在Jina，我们在尝试一种新的做法。因为我们是完全开源的，所以我们会根据你对Jina的第一次Pull Request来评估你的工程技能。
 
 如果你希望应聘我们的工程师岗位，你可以从以下项目中选择一个([Jina](https://github.com/jina-ai/jina)，[Hub](https://github.com/jina-ai/jina-hub)，[Dashboard](https://github.com/jina-ai/jina-hub)，[Examples](https://github.com/jina-ai/examples))，修正一个BUG或提出一个新功能。我们会对你的Pull Request进行及时的评估，根据PR的水平对评估你的技术能力。我们不仅会检查编码的功能实现，而且会特别关注编码风格以及文档风格。请参考我们的[Commit Style](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md)。
 

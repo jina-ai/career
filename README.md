@@ -1,5 +1,6 @@
 ![Career@Jina AI](career-banner.png)
-<sub><a href='./README.zh'>中文</a></sub>
+
+[中文](README.zh.md)
 
 Jina AI is a Neural Search Company.
 

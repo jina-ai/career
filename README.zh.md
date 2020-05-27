@@ -1,67 +1,75 @@
 ![Career@Jina AI](career-banner.png)
 
-Jina AI是一家神经搜索公司。
+Jina AI是一家**神经搜索**公司。
 
-我们正在寻找顶级的[AI工程师](https://github.com/jina-ai/career/blob/master/ai-engineer.md),[全栈工程师](https://github.com/jina-ai/career/blob/master/full-stack-engineer.md)，前端开发者。[开放源码布道者](https://github.com/jina-ai/career/blob/master/opensource-evangelist.md),[产品经理](https://github.com/jina-ai/career/blob/master/ai-product-manager.md)和运营经理加入我们的团队。每个岗位都有具体要求。详情请查看相关文件。
+我们在全球范围内寻找顶级的[AI工程师](https://github.com/jina-ai/career/blob/master/ai-engineer.zh.md)、[全栈工程师](https://github.com/jina-ai/career/blob/master/full-stack-engineer.zh.md)、[开源布道者](https://github.com/jina-ai/career/blob/master/opensource-evangelist.md)、[产品经理](https://github.com/jina-ai/career/blob/master/ai-product-manager.md)加入我们的团队。
 
-总的来说，我们希望你能：
+我们希望你：
 
--   要对开源、AI和搜索充满热情。
--   用工匠精神和主人翁精神来工作。
--   在解决问题上要高效、负责任。
--   和开源社区一起玩耍。
--   能说、能写好英语。
+-   对开源、AI和搜索充满热情；
+-   具有工匠精神；
+-     以主人翁精神对待工作；
+-   能够高效、负责的解决问题；
+-   能够与开源社区共同成长；
+-   具有良好的英语听说和书写能力。
 
-我们为顶尖人才提供极具竞争力的待遇和多重福利。现在就来加入我们吧!请将您的简历发送至：[career@jina.ai](mailto:career@jina.ai)
+我们能为你提供优厚的待遇和福利，也愿意与你共同成长，做更好的自己。
+
 
 ## 公司文化
 
-### _如果我们不喜欢什么东西，我们就改变它，让它变得更好。_
+>  _如果我们不喜欢什么东西，我们就改变它，让它变得更好。_
 
--   我们不要把时间浪费在不相信的事情上。
--   我们不会把自己的价值和创新禁锢在 "人们一贯的方式 "中。我们乐于接受变化。
--   我们的标准不打折扣。
+-   我们绝不浪费时间在我们不相信的事情上。
+-   我们绝不因为 "大家都这样做 "而拒绝创新，我们拥抱变化。
+-   我们绝不对代码质量做任何妥协。
 
-## 关于面试的一般建议
+## 招聘岗位
 
-我们完全致力于开源。这意味着你可以公开查看我们所有的代码、提交、问题、PR。因此，当我们进行采访时，我们希望您对我们的产品、技术栈和愿景有一定的了解。
+|岗位|工作地点|岗位描述|
+|---|----|----|
+|高级AI工程师|北京/柏林/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/ai-engineer.zh.md)|
+|初级AI工程师|北京/柏林|[岗位描述](https://github.com/jina-ai/career/blob/master/ai-engineer-junior.zh.md)|
+|全栈工程师|北京/柏林/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/full-stack-engineer.zh.md)|
+|开源布道者|北京/柏林/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/opensource-evangelist.md)|
+|产品经理|北京/柏林|[岗位描述](https://github.com/jina-ai/career/blob/master/ai-product-manager.md)
 
-## 工程角色：一个好的Pull Request就是一封好的求职信
+## 面试前的Tips
 
-每一次技术面试都会涉及到一些代码筛选。在Jina，我们的做法不一样。因为我们是完全开源的，所以根据你对Jina的第一次Pull Request来评估你的工程技能是一个很好的方法。
+在Jina，我们专注于开源。任何人都可以随时查看我们所有的代码、我们的每一次提交、每一个issue和每一个PR。因此，在提交简历之前，我们衷心希望你能花些时间了解我们的产品和技术栈。
 
-如果您应聘我们的工程角色，您可以选择一个项目([Jina](https://github.com/jina-ai/jina),[Hub](https://github.com/jina-ai/jina-hub),[Dashboard](https://github.com/jina-ai/jina-hub),[Examples](https://github.com/jina-ai/examples))，并对一个BUG或新功能进行工作。通过pull request提交你的工作并通过CICD。然后我们将对其进行审核。
+## 🚀应聘工程师岗位：一个好的PR就是一封好的求职信
 
-注意，不仅要注意编码，还要注意编码风格，文档的编码风格。[Commit Style](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md)，影响我们的评价。
+coder interview是技术面试必不可少的一项。在Jina，我们在尝试一种新的做法。因为我们是完全开源的，所以我们会根据你对Jina的第一次Pull Request来评估你的工程技能。
 
-### 一个好的出发点
+如果你希望应聘我们的工程师岗位，你可以从以下项目中选择一个([Jina](https://github.com/jina-ai/jina)，[Hub](https://github.com/jina-ai/jina-hub)，[Dashboard](https://github.com/jina-ai/jina-hub)，[Examples](https://github.com/jina-ai/examples))，修正一个BUG或提出一个新功能。我们会对你的Pull Request进行及时的评估，根据PR的水平对评估你的技术能力。我们不仅会检查编码的功能实现，而且会特别关注编码风格以及文档风格。请参考我们的[Commit Style](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md)。
 
-那么，你应该从哪些方面入手呢？以下是一些好的例子。
+### 从哪里入手
 
--   将执行者移植到Jina Hub。
--   在我们的教程部分添加一个基于Jina构建的例子。
--   解决问题中列出的错误/功能请求。
--   完善文献资料。
+下面是一些我们的一些建议：
 
-你不限于此，选择你的独特视角，给我们一个惊喜吧！你可以选择你的独特视角，给我们一个惊喜。
+-   将Executors移植到Jina Hub。
+-   在[Examples](https://github.com/jina-ai/examples)添加一个基于Jina的例子。
+-   解决一个Issue。
+-   完善Documentation。
 
-### 不要过度工程化
+千万不要让上面的例子局限了你的想象力，我们希望你能够充分释放你的创造力，选择一个独一无二的视角，让我们看看你的强大技术实力！
 
-如果你选择了一个非常有挑战性的任务作为第一个拉动请求，那么可能会耗费你太多时间和精力来完成。但是，如果你选择了一个非常容易的任务，比如修复一个复数的错别字，那么我们就不能完全评估你的工程技能。
+### 避免过度工程化
 
-在适当的规模内找到一个任务，是你的决定和智慧：适当的规模内找到一个任务：适当的规模内，足以显示出你的能力，而不至于过度。**锁定问题，预估难度，并将其完成**。这就是我们希望你拥有的技能。
+我们希望你能充分发挥自己的智慧，提出一个合适的PR。
+如果PR过于复杂，那么你可能会花过多时间和精力，最终徒劳无功。如果你选择的任务过于简单（比如修复一个错别字），那么我们也无法评估你的技术水平。**找到一个合适的问题，准确的预估难度，合理的规划资源，在最短的时间提交你的PR。**这才是我们希望你所拥有的技能。
 
-## 产品、运营和布道者的角色。谈谈你的理解
 
-希望大家在使用我们的产品时，能听到大家的反馈。喜欢我们的产品吗？那就**真去用**它，而不是只看我们的截图或文档。按照PyPI的安装说明或者使用Docker，不管是哪种方式，都需要你自己运行系统。这是对我们产品相关角色的基本要求。
+## 💡应聘产品、运营和布道者岗位：聊聊你对Jina的理解
 
-在玩过我们的产品后。我们想听听您的反馈。您的看法是什么？有哪些好的和不好的功能？有什么可以改进的地方？你需要哪些最低限度的资源（时间&人力资源）来完成？
+如果你喜欢我们的产品，如果你赞同我们的想法，那么就亲身体验Jina吧！你可以通过PyPI安装，也可以使用Docker，无论是哪种方式，我们希望你自己能够亲自动手运行Jina。这是对我们产品岗位的基本要求。
 
-你能告诉我们的越多，我们对你的技能组合就越了解。
+我们希望你能够亲自体验Jina，给我最真实的反馈。有哪些功能让你啧啧称赞？又有哪些特性让你觉得非常鸡肋？如何能够改进？又需要多少资源（时间&人力）来完成改进？我们期待你的答案。
 
 ## 我们期待着您的加入!
 
-将您的简历投递到 [career@jina.ai](mailto:career@jina.ai)
+如果你想加入我们，请发送简历到 [career@jina.ai](mailto:career@jina.ai)。我们期待和你一起，创造未来！
 
 
 <p align="center">

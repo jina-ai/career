@@ -1,6 +1,7 @@
 # Senior AI Engineer
-*posted on* 28.04.2020
+*posted on* 27.05.2020
 
+[中文](ai-engineer.zh.md)
 
 ## Primary Responsibilities
 

@@ -28,9 +28,11 @@ Jina AI是一家**神经搜索**公司。
 
 |岗位|工作地点|岗位描述|
 |---|----|----|
-|高级AI工程师|北京/柏林/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/ai-engineer.zh.md)|
-|初级AI工程师|北京/柏林|[岗位描述](https://github.com/jina-ai/career/blob/master/ai-engineer-junior.zh.md)|
-|全栈工程师|北京/柏林/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/full-stack-engineer.zh.md)|
+|高级AI工程师|北京/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/ai-engineer.zh.md)|
+|初级AI工程师|北京|[岗位描述](https://github.com/jina-ai/career/blob/master/ai-engineer-junior.zh.md)|
+|全栈工程师|北京/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/full-stack-engineer.zh.md)|
+|前端开发工程师|北京/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/frontend-engineer.zh.md)|
+|后台开发工程师|北京/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/backtend-engineer.zh.md)|
 |开源布道者|北京/柏林/Remote|[岗位描述](https://github.com/jina-ai/career/blob/master/opensource-evangelist.md)|
 |产品经理|北京/柏林|[岗位描述](https://github.com/jina-ai/career/blob/master/ai-product-manager.md)
 

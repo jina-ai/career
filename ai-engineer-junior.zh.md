@@ -39,8 +39,9 @@
 https://lfai.foundation/blog/2020/05/26/all-in-open-source-why-i-quit-tech-giant-and-found-my-oss-startup/
 
 更多详情，请访问
-极纳官网：https://jina.ai/#/
-github主页：https://github.com/jina-ai/
+
+- 极纳官网：https://jina.ai/#/
+- github主页：https://github.com/jina-ai/
 
 
 ## 如何申请

@@ -10,12 +10,12 @@ You'll be working with our Developer Relations Team to:
 - Refine and polish documentation and example projects
 - Recognize trends in feedback from the community and relay that information back to engineering.
 - Put together technical presentations that keep audience engaged and interested.
- 
+- Compose documentation in easy-to-understand way to ensure users' smooth onboarding experience using Jina 
 
 ## Preferred Qualifications
 
-- 3+ years experience in writing documentation
-- Native-level English speaking and writing abilities
+- 3+ years experience in writing documentation. 1 year experience in open source project documentation writing
+- Native-level English speaking and writing abilities. Multilingual writing would be a great plus
 - Background in Python programming 
 - A great presence on Github, Medium, or other relevant platform
 - A clear desire to learn. You are outgoing, a really good listener.

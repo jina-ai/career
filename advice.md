@@ -1,10 +1,7 @@
 ![Career@Jina AI](career-banner.png)
 
-[中文](README.zh.md)
 
 Jina AI is a Neural Search Company.
-
-We are looking for top [AI engineers](https://github.com/jina-ai/career/blob/master/ai-engineer.md), [backend software engineers](https://github.com/jina-ai/career/blob/master/backend-engineer.md), [frontend developers](https://github.com/jina-ai/career/blob/master/frontend-engineer.md), [open-source evangelists](https://github.com/jina-ai/career/blob/master/opensource-evangelist.md), [product managers](https://github.com/jina-ai/career/blob/master/ai-product-manager.md) and operating managers to join our team. There are specific requirements for each position. Please check the documents for details. 
 
 In general, we’d like you to:
 - Be passionate about open source, AI and search;
@@ -13,18 +10,10 @@ In general, we’d like you to:
 - Play along with the open source community;
 - Speak and write good English.
 
-We offer a very competitive package and multiple perks for top talents. Come and join us today! Send your resume to [career@jina.ai](mailto:career@jina.ai)
-
-## Office Locations
-
-- Berlin, Alexanderplatz
-- Beijing, Zhongguancun InnoWay
-
-We also have few remote positions.
 
 ## Company Culture
 
-### *If we don’t like something, we change it and make it better.*
+*If we don’t like something, we change it and make it better.*
 
 - We do not waste time on things we do not believe.
 - We don’t lock up our value and innovation in "the way people have always done it." We are receptive to change.
@@ -70,12 +59,3 @@ After playing with our products. We'd like to hear your feedback. What’s your 
 The more you can tell us, the more understanding we have about your skill set.
 
 
-## We are looking forward to having you onboard!
-
-Submit your resume to [career@jina.ai](mailto:career@jina.ai)
-
-
-
-<p align="center">
-  <a href="https://opensource.jina.ai"><img src="https://github.com/jina-ai/jina/blob/master/docs/chapters/101/img/ILLUS11.png?raw=true" width="60%" align="center"></a>
-</p>
